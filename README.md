@@ -4,6 +4,8 @@
 
 This tool is a web-based application that combines real-time pose estimation with IMU (Inertial Measurement Unit) sensor data to provide comprehensive movement analysis. No installation required.
 
+Deployment Link: https://jhutton8.github.io/IMUVideo-Application/
+
 ---
 
 ## Purpose
