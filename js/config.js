@@ -24,7 +24,7 @@ const FLIP_HORIZONTAL_LIVE = true;
 const FLIP_HORIZONTAL_UPLOAD = true;
 
 // IMU sample rate in Hz (adjust to your sensor)
-const SAMPLE_RATE_HZ = 52;
+const SAMPLE_RATE_HZ = 51.47; //supposed to be 52 but this is the sf for this file
 
 /** ---------- DOM references: video, canvas, buttons, status, IMU controls ---------- */
 
