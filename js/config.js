@@ -17,7 +17,7 @@ const VIDEO_HEIGHT = 480;
 const MIN_PART_CONFIDENCE = 0.2;
 
 // Frame skipping for uploaded videos (performance tweak)
-const UPLOAD_FRAME_SKIP = 1;
+const UPLOAD_FRAME_SKIP = 2;
 
 // Flip settings (set false if your videos are not mirrored)
 const FLIP_HORIZONTAL_LIVE = true;
